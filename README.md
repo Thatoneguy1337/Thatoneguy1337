@@ -18,5 +18,5 @@
 ##
  
  ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Thatoneguy1337&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatoneguy1337)](https://github.com/Thatoneguy1337/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thatoneguy1337)
  
