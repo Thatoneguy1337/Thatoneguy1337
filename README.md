@@ -1,6 +1,6 @@
 ## Olá, meu nome é Victor Guterres sou desenvolvedor web-fullstack, formado na Kenzie Academy Brasil e atualmente estou procurando por oportunidades de emprego no momento.
 
-## Inglês é a minha segunda língua na qual eu tenho fluência, estou sempre diposto a aprender novas tecnologias e aprimorar as minhas capacidades tecnicas e tenho conhecimento nas seguintes linguagens abaixo:
+## Inglês é a minha segunda língua na qual eu tenho fluência, estou sempre diposto a aprender novas tecnologias, aprimorar as minhas capacidades técnicas e tenho conhecimento nas seguintes linguagens abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
