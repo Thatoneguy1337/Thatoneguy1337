@@ -1,4 +1,4 @@
-<h3>Olá, meu nome é Victor Guterres sou desenvolvedor web-fullstack, formado na Kenzie Academy Brasil e atualmente estou trabalhando na SMTX - multipltafroma imobiliária .</h3>
+<h3>Olá, meu nome é Victor Guterres sou desenvolvedor web-fullstack, formado na Kenzie Academy Brasil e atualmente estou trabalhando na SMTX - Multiplataformma Imobiliária .</h3>
 
 <h3>Inglês é a minha segunda língua na qual eu tenho fluência, estou sempre diposto a aprender novas tecnologias, aprimorar as minhas capacidades técnicas e tenho conhecimento nas seguintes linguagens abaixo:</h3>
 
