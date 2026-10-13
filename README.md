@@ -1,18 +1,5 @@
-<h1 align="center">Victor Guterres 👋</h1>
 
-<p align="center">
-  <b>Desenvolvedor Full Stack</b> · Rio de Janeiro, RJ<br>
-  Do código ao deploy: APIs, interfaces, mobile, cloud e IA generativa em produção.<br>
-  <b>🟢 Em busca de uma nova oportunidade.</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-guterres-7b1815220/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
----
-
-Comecei na programação em 2022, com o curso de Desenvolvimento Web Full Stack da Kenzie Academy. Em 2024 entrei na SMTX, uma plataforma imobiliária, onde cuidei de funcionalidades e também de dar suporte quando algo dava errado em produção. Nesse período fiz a formação em cloud AWS e Azure na Escola da Nuvem.
+Olá, meu  nome é Victor Guterres, comecei na programação em 2022, com o curso de Desenvolvimento Web Full Stack da Kenzie Academy. Em 2024 entrei na SMTX, uma plataforma imobiliária, onde cuidei de funcionalidades e também de dar suporte quando algo dava errado em produção. Nesse período fiz a formação em cloud AWS e Azure na Escola da Nuvem.
 
 Em seguida fui para a Usystem, onde trabalhei até outubro de 2026 em vários produtos: uma plataforma jurídica com inteligência artificial, um ERP com emissão de nota fiscal, um PDV e um aplicativo de presentes via PIX. Gosto de acompanhar tudo, do código até o deploy, e também de investigar problemas em produção até achar a causa.
 
