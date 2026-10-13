@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> · Rio de Janeiro, RJ<br>
-  Do código ao deploy: APIs, interfaces, mobile, cloud e IA generativa em produção.
+  Do código ao deploy: APIs, interfaces, mobile, cloud e IA generativa em produção.<br>
+  <b>🟢 Em busca de uma nova oportunidade.</b>
 </p>
 
 <p align="center">
@@ -13,7 +14,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🏢 Desenvolvedor Full Stack na **Usystem**, criando produtos SaaS: plataforma jurídica com IA, ERP com emissão fiscal, PDV e app mobile de presentes via PIX.
+- 🔎 **Disponível para novas oportunidades** como Desenvolvedor Full Stack.
+- 🏢 Até outubro de 2026, Desenvolvedor Full Stack na **Usystem**, onde criei produtos SaaS: plataforma jurídica com IA, ERP com emissão fiscal, PDV e app mobile de presentes via PIX.
 - 🚀 Na área desde 2022 (Kenzie Academy), com especialização em cloud AWS e Azure (Escola da Nuvem). Antes, plataforma imobiliária multiplataforma (SMTX).
 - ☁️ Infra em **AWS** e **GCP**, incluindo participação na migração de serviços da AWS para o GCP.
 - 🤖 Levo **IA generativa** para dentro dos produtos: LLMs, agentes, MCP, OCR e busca vetorial.
@@ -76,4 +78,4 @@ NF-e/NFS-e (PlugNotas/SEFAZ) · PIX · WhatsApp · Twilio (SMS) · E-mail (IMAP/
 
 ---
 
-<p align="center">💬 Aberto a conversar sobre projetos, cloud e IA aplicada. Vamos conversar!</p>
+<p align="center">💬 Procuro minha próxima oportunidade como Full Stack. Vamos conversar pelo LinkedIn!</p>
