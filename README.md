@@ -12,15 +12,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+Comecei na programação em 2022, com o curso de Desenvolvimento Web Full Stack da Kenzie Academy. Em 2024 entrei na SMTX, uma plataforma imobiliária, onde cuidei de funcionalidades e também de dar suporte quando algo dava errado em produção. Nesse período fiz a formação em cloud AWS e Azure na Escola da Nuvem.
 
-- 🔎 **Disponível para novas oportunidades** como Desenvolvedor Full Stack.
-- 🏢 Até outubro de 2026, Desenvolvedor Full Stack na **Usystem**, onde criei produtos SaaS: plataforma jurídica com IA, ERP com emissão fiscal, PDV e app mobile de presentes via PIX.
-- 🚀 Na área desde 2022 (Kenzie Academy), com especialização em cloud AWS e Azure (Escola da Nuvem). Antes, plataforma imobiliária multiplataforma (SMTX).
-- ☁️ Infra em **AWS** e **GCP**, incluindo participação na migração de serviços da AWS para o GCP.
-- 🤖 Levo **IA generativa** para dentro dos produtos: LLMs, agentes, MCP, OCR e busca vetorial.
-- 🔍 Investigo incidentes em produção até a causa raiz: erros 5xx, OOM, filas travadas.
-- 🤝 Valorizo código limpo, trabalho em equipe e metodologias ágeis (SCRUM/Kanban). Inglês avançado.
+Em seguida fui para a Usystem, onde trabalhei até outubro de 2026 em vários produtos: uma plataforma jurídica com inteligência artificial, um ERP com emissão de nota fiscal, um PDV e um aplicativo de presentes via PIX. Gosto de acompanhar tudo, do código até o deploy, e também de investigar problemas em produção até achar a causa.
+
+Hoje estou em busca de um novo emprego como Desenvolvedor Full Stack. Se você tem uma vaga ou quer conversar, me chame pelo LinkedIn.
 
 ## 🛠️ Stack
 
