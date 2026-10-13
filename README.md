@@ -31,16 +31,14 @@
 **Front-end**
 
 ![Front](https://skillicons.dev/icons?i=react,vite,tailwind,mui,angular,html,css,js&theme=dark)
-`Refine.dev` `Ant Design` `shadcn/ui` `TanStack Query` `Zustand` `React Hook Form` `Zod`
 
 **Mobile**
 
-![Mobile](https://skillicons.dev/icons?i=react,firebase&theme=dark) `React Native` `Expo`
+![Mobile](https://skillicons.dev/icons?i=react,firebase&theme=dark)
 
 **Bancos de dados**
 
 ![DB](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,dynamodb,prisma&theme=dark)
-`TypeORM` `pgvector` `Bull`
 
 **Cloud & DevOps**
 
@@ -50,19 +48,6 @@
 
 ![Tests](https://skillicons.dev/icons?i=jest,vitest,playwright,sentry,eslint,prettier&theme=dark)
 `OpenTelemetry`
-
-## 🤖 IA generativa
-
-`Anthropic Claude` · `AWS Bedrock` · `Google Gemini` · `OpenAI` · `Agentes` · `MCP` · `AWS Textract` · `Google Document AI` · `pgvector` · `S3 Vectors`
-
-## 🔌 Integrações
-
-NF-e/NFS-e (PlugNotas/SEFAZ) · PIX · WhatsApp · Twilio (SMS) · E-mail (IMAP/SMTP) · Webhooks · SOAP · Correios · Assinatura digital de PDF (certificado A1)
-
-## ☁️ Cloud em detalhe
-
-- **GCP:** Cloud Run, Cloud Build, Cloud SQL, Cloud Storage, BigQuery, Cloud Logging, Cloud Monitoring, KMS
-- **AWS:** EC2, ECS, ECR, Lambda, S3, SQS, SES, DynamoDB, Cognito, CloudWatch, Secrets Manager, IAM
 
 ## 🎓 Formação
 
