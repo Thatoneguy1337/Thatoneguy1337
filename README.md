@@ -5,7 +5,6 @@ Em seguida fui para a Usystem, onde trabalhei até outubro de 2026 em vários pr
 
 Hoje estou em busca de um novo emprego como Desenvolvedor Full Stack. Se você tem uma vaga ou quer conversar, me chame pelo LinkedIn.
 
-## 🛠️ Stack
 
 **Back-end**
 
